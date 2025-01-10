@@ -1,0 +1,2 @@
+# Overview
+The Translator & Text-to-Speech Program is a Python-based application that combines language translation and audio output functionality. It leverages the Google Translate API and gTTS (Google Text-to-Speech) library to translate text into over 100 languages and generate audio output. This program demonstrates the integration of APIs, user input handling, and file-based audio generation.
